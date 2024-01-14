@@ -26,10 +26,10 @@ Welcome to TruFlag, a Kotlin-developed quiz app that will test your knowledge of
 
 <div style="display:flex;flex-direction:row">
   <img src="/screenshots/login_page.jpg" alt="Login Screen" width="300" />
-  <img src="/screenshots/quiz_page.jpg" alt="Quiz Screen" width="300" />
+  <img src="/screenshots/quiz_page.jpg" alt="Quiz Screen" />
   <img src="/screenshots/quiz_page_with_correct_answer.jpg" alt="Correctly Answered" width="300" />
-  <img src="/screenshots/quiz_page_with_incorrect_answer.jpg" alt="Incorrectly Answered" width="300" />
-  <img src="/screenshots/result_screen.jpg" alt="Result Screen" width="300" />
+  <img src="/screenshots/quiz_page_with_incorrect_answer.jpg" alt="Incorrectly Answered"/>
+  <img src="/screenshots/result_screen.jpg" alt="Result Screen" />
 </div>
 
 ## Screenshots
