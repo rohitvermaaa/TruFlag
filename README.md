@@ -38,7 +38,7 @@ Welcome to TruFlag, a Kotlin-developed quiz app that will test your knowledge of
 ![Quiz Screen](/screenshots/quiz_page_with_incorrect_answer.jpg)
 *Caption: Incorrectly Answered*
 
-![Result Screen](/screenshotsresult_screen.jpg)
+![Result Screen](/screenshots/result_screen.jpg)
 *Caption: Result Page*
 
 ## Requirements
