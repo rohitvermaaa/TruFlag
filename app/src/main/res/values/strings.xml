@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TruFlag</string>
+    <string name="run_the_flags">Run the Flags!</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="name"> Name </string>
+    <string name="start">Start</string>
+    <string name="what_country_s_flag_is_this">What country\'s flag is this?</string>
+    <string name="option_one">Option One</string>
+    <string name="option_three">Option Three</string>
+    <string name="option_four">Option Four</string>
+    <string name="option_two">Option Two</string>
+    <string name="sumbit">SUMBIT</string>
+    <string name="result">RESULT</string>
+    <string name="results">Results</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="you_score_is_10_out_of_10">You Score is 10 out of 10</string>
+    <string name="username">Username</string>
+    <string name="finish">Finish</string>
+</resources>
