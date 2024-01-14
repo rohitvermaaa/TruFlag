@@ -25,29 +25,13 @@ Welcome to TruFlag, a Kotlin-developed quiz app that will test your knowledge of
    - TruFlag is not just a quiz app; it's an educational tool. Each question is accompanied by information about the flag in question, providing users with interesting facts and insights into the world of flags.
 
 <div style="display:flex;flex-direction:row">
-  <img src="/screenshots/login_page.jpg" alt="Login Screen" width="300" />
-  <img src="/screenshots/quiz_page.jpg" alt="Quiz Screen" />
-  <img src="/screenshots/quiz_page_with_correct_answer.jpg" alt="Correctly Answered" width="300" />
-  <img src="/screenshots/quiz_page_with_incorrect_answer.jpg" alt="Incorrectly Answered"/>
-  <img src="/screenshots/result_screen.jpg" alt="Result Screen" />
+  <img src="/screenshots/logo.jpg" alt="Logo" width=300/>
+  <img src="/screenshots/login_page.jpg" alt="Login Screen" width=300/>
+  <img src="/screenshots/quiz_page.jpg" alt="Quiz Screen" width=300/>
+  <img src="/screenshots/quiz_page_with_correct_answer.jpg" alt="Correctly Answered" width=300/>
+  <img src="/screenshots/quiz_page_with_incorrect_answer.jpg" alt="Incorrectly Answered" width=300/>
+  <img src="/screenshots/result_screen.jpg" alt="Result Screen" width=300/>
 </div>
-
-## Screenshots
-
-![Login Screen](/screenshots/login_page.jpg)
-*Caption: Login Page*
-
-![Quiz Screen](/screenshots/quiz_page.jpg)
-*Caption: Quiz Page*
-
-![Quiz Screen](/screenshots/quiz_page_with_correct_answer.jpg)
-*Caption: Correctly Answered*
-
-![Quiz Screen](/screenshots/quiz_page_with_incorrect_answer.jpg)
-*Caption: Incorrectly Answered*
-
-![Result Screen](/screenshots/result_screen.jpg)
-*Caption: Result Page*
 
 ## Requirements
 
