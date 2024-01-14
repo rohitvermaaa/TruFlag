@@ -24,6 +24,23 @@ Welcome to TruFlag, a Kotlin-developed quiz app that will test your knowledge of
 6. **Educational Content:**
    - TruFlag is not just a quiz app; it's an educational tool. Each question is accompanied by information about the flag in question, providing users with interesting facts and insights into the world of flags.
 
+## Screenshots
+
+![Login Screen](/screenshots/login_page.jpg)
+*Caption: Login Page*
+
+![Quiz Screen](/screenshots/quiz_page.jpg)
+*Caption: Quiz Page*
+
+![Quiz Screen](/screenshots/quiz_page_with_correct_answer.jpg)
+*Caption: Correctly Answered*
+
+![Quiz Screen](/screenshots/quiz_page_with_incorrect_answer.jpg)
+*Caption: Incorrectly Answered*
+
+![Result Screen](/screenshots/result_screen.png)
+*Caption: Result Page*
+
 ## Requirements
 
 - Android device with minimum API level 16 (Android 4.1 Jelly Bean) or later.
